@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project is to cleam the Nashville housing dataset to make it ready for analysis.
+The goal of this project is to clean the Nashville housing dataset to make it ready for analysis.
 
 ## Details
 
